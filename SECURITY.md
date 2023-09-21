@@ -23,3 +23,4 @@ declined, etc.
 https://gist.github.com/gilbertalgordo
 [![OSSAR](https://github.com/gilbertalgordo/opensource-website/actions/workflows/ossar.yml/badge.svg)](https://github.com/gilbertalgordo/opensource-website/actions/workflows/ossar.yml)
 [![Microsoft C++ Code Analysis](https://github.com/gilbertalgordo/opensource-website/actions/workflows/msvc.yml/badge.svg)](https://github.com/gilbertalgordo/opensource-website/actions/workflows/msvc.yml)
+[![pages-build-deployment](https://github.com/gilbertalgordo/opensource-website/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/gilbertalgordo/opensource-website/actions/workflows/pages/pages-build-deployment)
